@@ -1,5 +1,17 @@
 
 
+# About this code:
+# ----------------
+# This code performs the following tasks:
+  # 1. It creates a Streamlit app that allows users to interact with an LLM of their choosing to generate responses to their queries:  
+  #   - The app allows users to select from a list of LLMs and input their queries.
+  #   - The LLMs can be changed within a session. 
+  #   - The app displays the conversation between the user and the LLM.
+  #   - The app allows users to export the conversation to a PDF.
+  # 2. Students can intereact with the app, without having to create API keys for each LLM.
+  # 3. The app is designed to be used for educational purposes only.
+# -----------------------------------------------------------------------------
+
 
 # Import required libraries:
 # --------------------------
