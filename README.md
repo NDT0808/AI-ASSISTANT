@@ -83,10 +83,3 @@ conda activate chatisa
 ```sh
 streamlit run chatgpt.py
 ```
->>>>>>> edff38c6859edb71b7b91e7964a1364b5ceec80c
-=======
-# AI-CHATISA
->>>>>>> b4a2adfdc7fb3dad6be61ed1d064fe9435e55611
-=======
-# AI-CHATISA
->>>>>>> fc8b02596234f481b09496a35efa8ae72d591901
