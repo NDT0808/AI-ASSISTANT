@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # ChatISA
 hello trong hello world
 > ChatISA is your personal, free, and prompt-engineered chatbot, where you can chat with one of five LLMs. The chatbot consists of four main pages: (a) Coding Companion, (b) Project Coach, (c) Exam Ally, and (d) Interview Mentor.
