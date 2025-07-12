@@ -12,7 +12,6 @@
   # 3. The app is designed to be used for educational purposes only.
 # -----------------------------------------------------------------------------
 
-test
 
 
 # Import required libraries:
