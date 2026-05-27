@@ -14,7 +14,7 @@
 ### Support & funding
 
 * Farmer School of Business
-
+* US Bank
 
 ### References and inspiration
 
